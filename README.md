@@ -22,5 +22,13 @@ JobIT is a mobile application built with React Native that provides a platform f
 ##Contributing
 Contributions are always welcome. If you find any bugs or have any feature requests, please create an issue on the repository. If you'd like to contribute to the codebase, please fork the repository and submit a pull request.
 
+## Project Demo
+
+
+https://user-images.githubusercontent.com/88491381/232589481-7ce00968-3ebe-470f-94a1-015058f93f63.mp4
+
+
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
